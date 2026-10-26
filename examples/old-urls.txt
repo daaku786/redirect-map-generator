@@ -1,0 +1,10 @@
+# Old site (e.g. exported from the old sitemap or Screaming Frog)
+https://example.com/
+https://example.com/about-us.html
+https://example.com/services/emergency-plumbing.html
+https://example.com/services/water-heater-installation.html
+https://example.com/services/drain-cleaning.html
+https://example.com/blog/2019/05/how-to-unclog-a-drain/
+https://example.com/blog/2020/01/tankless-water-heater-cost-guide/
+https://example.com/blog/2018/03/company-picnic-photos/
+https://example.com/contact.php

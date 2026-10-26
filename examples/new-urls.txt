@@ -1,0 +1,10 @@
+# New site
+https://example.com/
+https://example.com/about/
+https://example.com/emergency-plumber/
+https://example.com/water-heaters/installation/
+https://example.com/drain-cleaning/
+https://example.com/blog/
+https://example.com/blog/unclog-a-drain/
+https://example.com/blog/tankless-water-heater-cost/
+https://example.com/contact/
